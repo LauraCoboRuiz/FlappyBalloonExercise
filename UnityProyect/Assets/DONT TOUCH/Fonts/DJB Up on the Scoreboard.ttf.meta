@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7fefd8814468c394089947e2d755c811
+timeCreated: 1490094773
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DJB Up on the Scoreboard
+  fontNames:
+  - DJB Up on the Scoreboard
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
